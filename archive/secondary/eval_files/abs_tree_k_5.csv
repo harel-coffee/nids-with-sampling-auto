@@ -1,0 +1,164 @@
+
+
+Confusion Matrix
+
+
+Unnamed: 0,Benign,Brute Force-Web,Brute Force-XSS,DDoS attacks-LOIC-HTTP,DDoS-HOIC,DDoS-LOIC-UDP,DoS-GoldenEye,DoS-Hulk,DoS-SlowHTTPTest,DoS-Slowloris,FTP-BruteForce,Infiltration,SQL Injection,SSH-BruteForce
+Benign,87710.4,44.8,22.0,11.2,5010.6,19.6,209.0,85.6,77.0,87.6,531.8,13.8,8.0,635.0
+Brute Force-Web,9.6,75.6,4.6,0.0,45.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.6,0.0
+Brute Force-XSS,2.6,2.8,33.8,0.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.0
+DDoS attacks-LOIC-HTTP,1.6,0.0,0.0,115731.0,0.0,59.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+DDoS-HOIC,16788.2,2479.0,1481.8,0.6,623648.6,0.0,0.0,0.2,0.0,0.0,0.0,0.0,352.2,0.0
+DDoS-LOIC-UDP,6.0,0.0,0.0,0.0,0.0,762.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+DoS-GoldenEye,1.0,0.0,0.0,0.2,0.0,0.0,9177.2,0.2,0.0,0.4,0.0,0.0,0.0,0.0
+DoS-Hulk,3562.6,0.0,0.0,0.0,0.0,0.0,131.4,699533.0,0.0,9.0,0.0,0.0,0.0,1906.2
+DoS-SlowHTTPTest,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10987.0,0.0,10123.0,0.0,0.0,0.0
+DoS-Slowloris,25.8,0.0,0.0,0.0,0.0,0.0,0.4,0.6,0.0,2017.4,0.0,0.0,0.0,0.0
+FTP-BruteForce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4394.8,0.0,33673.2,0.0,0.0,0.0
+Infiltration,4.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.4,0.0,0.0
+SQL Injection,2.6,3.8,0.4,0.0,6.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.2,0.0
+SSH-BruteForce,296.2,0.0,0.0,0.0,0.0,0.0,0.0,59.2,1.6,0.0,4.4,0.0,0.0,36761.4
+
+
+Brute Force-Web
+Detection Rate, False Alarm Rate in %
+method \ SR,10%,10%,1%,1%,.1%,.1%
+,DR,FAR,DR,FAR,DR,FAR
+without sampling,53.7,0.05,53.7,0.05,53.7,0.05
+Fast Filtered Sampling,20.32,0.04,14.92,0.02,1.85,0.01
+Random Packet Sampling,22.31,0.09,15.35,0.01,3.27,0.01
+Selective Flow Sampling,52.56,0.06,34.24,0.02,10.94,0.03
+Sketch Guided Sampling,54.12,0.03,34.1,0.05,11.08,0.04
+SketchFlow,20.46,0.01,16.62,0.01,NA,0.0
+
+
+Brute Force-XSS
+Detection Rate, False Alarm Rate in %
+method \ SR,10%,10%,1%,1%,.1%,.1%
+,DR,FAR,DR,FAR,DR,FAR
+without sampling,49.86,0.03,49.86,0.03,49.86,0.03
+Fast Filtered Sampling,31.57,0.01,30.39,0.01,4.13,0.01
+Random Packet Sampling,32.16,0.02,30.09,0.01,5.02,0.01
+Selective Flow Sampling,49.27,0.03,23.9,0.02,12.98,0.02
+Sketch Guided Sampling,46.61,0.02,29.5,0.01,15.93,0.02
+SketchFlow,32.45,0.01,29.21,0.01,NA,0.0
+
+
+DDoS attacks-LOIC-HTTP
+Detection Rate, False Alarm Rate in %
+method \ SR,10%,10%,1%,1%,.1%,.1%
+,DR,FAR,DR,FAR,DR,FAR
+without sampling,99.95,0.02,99.95,0.02,99.95,0.02
+Fast Filtered Sampling,26.51,0.41,3.75,0.1,0.28,0.02
+Random Packet Sampling,22.5,0.38,2.86,0.1,0.27,0.02
+Selective Flow Sampling,99.95,0.02,36.14,0.07,5.63,0.18
+Sketch Guided Sampling,98.44,0.02,47.25,0.17,8.7,0.14
+SketchFlow,20.87,0.36,0.31,0.05,0.0,0.0
+
+
+DDoS-HOIC
+Detection Rate, False Alarm Rate in %
+method \ SR,10%,10%,1%,1%,.1%,.1%
+,DR,FAR,DR,FAR,DR,FAR
+without sampling,96.73,5.31,96.73,5.31,96.73,5.31
+Fast Filtered Sampling,15.49,0.95,2.04,0.21,0.22,0.03
+Random Packet Sampling,15.4,1.0,2.08,0.2,0.23,0.03
+Selective Flow Sampling,96.37,5.31,10.22,0.37,1.35,0.19
+Sketch Guided Sampling,88.66,4.68,19.65,0.74,2.22,0.15
+SketchFlow,17.54,1.07,1.73,0.14,0.0,0.0
+
+
+DDoS-LOIC-UDP
+Detection Rate, False Alarm Rate in %
+method \ SR,10%,10%,1%,1%,.1%,.1%
+,DR,FAR,DR,FAR,DR,FAR
+without sampling,99.22,0.03,99.22,0.03,99.22,0.03
+Fast Filtered Sampling,63.73,0.01,63.89,0.01,62.77,0.01
+Random Packet Sampling,63.7,0.01,63.91,0.01,62.66,0.01
+Selective Flow Sampling,98.75,0.03,12.4,0.01,6.2,0.01
+Sketch Guided Sampling,98.57,0.02,37.06,0.02,6.93,0.01
+SketchFlow,63.65,0.01,63.96,0.01,62.24,0.01
+
+
+DoS-GoldenEye
+Detection Rate, False Alarm Rate in %
+method \ SR,10%,10%,1%,1%,.1%,.1%
+,DR,FAR,DR,FAR,DR,FAR
+without sampling,99.99,0.23,99.99,0.23,99.99,0.23
+Fast Filtered Sampling,37.91,0.1,3.99,0.02,0.18,0.01
+Random Packet Sampling,32.49,0.11,3.24,0.02,0.18,0.01
+Selective Flow Sampling,99.95,0.23,47.35,0.05,7.36,0.04
+Sketch Guided Sampling,99.26,0.24,56.63,0.1,12.66,0.07
+SketchFlow,41.92,0.1,0.16,0.01,NA,0.0
+
+
+DoS-Hulk
+Detection Rate, False Alarm Rate in %
+method \ SR,10%,10%,1%,1%,.1%,.1%
+,DR,FAR,DR,FAR,DR,FAR
+without sampling,99.21,0.1,99.21,0.1,99.21,0.1
+Fast Filtered Sampling,9.32,0.05,1.82,0.03,0.36,0.01
+Random Packet Sampling,9.06,0.06,1.79,0.03,0.38,0.01
+Selective Flow Sampling,72.62,0.23,0.59,0.05,0.18,0.05
+Sketch Guided Sampling,59.6,0.18,2.2,0.04,0.28,0.03
+SketchFlow,8.92,0.04,1.96,0.01,0.41,0.01
+
+
+DoS-SlowHTTPTest
+Detection Rate, False Alarm Rate in %
+method \ SR,10%,10%,1%,1%,.1%,.1%
+,DR,FAR,DR,FAR,DR,FAR
+without sampling,52.05,0.09,52.05,0.09,52.05,0.09
+Fast Filtered Sampling,7.68,0.23,0.87,0.04,0.06,0.01
+Random Packet Sampling,8.25,0.15,0.81,0.03,0.06,0.01
+Selective Flow Sampling,52.04,0.08,59.3,0.02,3.45,0.13
+Sketch Guided Sampling,74.52,0.1,32.92,0.22,5.17,0.13
+SketchFlow,2.14,0.07,0.0,0.0,0.0,0.0
+
+
+DoS-Slowloris
+Detection Rate, False Alarm Rate in %
+method \ SR,10%,10%,1%,1%,.1%,.1%
+,DR,FAR,DR,FAR,DR,FAR
+without sampling,98.69,0.1,98.69,0.1,98.69,0.1
+Fast Filtered Sampling,46.21,0.04,7.15,0.01,0.58,0.01
+Random Packet Sampling,46.94,0.05,6.3,0.01,0.58,0.01
+Selective Flow Sampling,97.84,0.09,22.63,0.03,6.28,0.02
+Sketch Guided Sampling,96.47,0.04,57.79,0.06,7.86,0.02
+SketchFlow,53.15,0.04,2.06,0.01,NA,0.0
+
+
+FTP-BruteForce
+Detection Rate, False Alarm Rate in %
+method \ SR,10%,10%,1%,1%,.1%,.1%
+,DR,FAR,DR,FAR,DR,FAR
+without sampling,88.46,0.57,88.46,0.57,88.46,0.57
+Fast Filtered Sampling,13.14,0.31,1.16,0.07,0.09,0.01
+Random Packet Sampling,11.14,0.21,1.06,0.06,0.11,0.01
+Selective Flow Sampling,88.47,0.57,22.1,0.04,4.06,0.14
+Sketch Guided Sampling,59.83,0.58,24.36,0.37,2.57,0.09
+SketchFlow,13.83,0.17,0.21,0.01,0.0,0.0
+
+
+Infiltration
+Detection Rate, False Alarm Rate in %
+method \ SR,10%,10%,1%,1%,.1%,.1%
+,DR,FAR,DR,FAR,DR,FAR
+without sampling,79.62,0.02,79.62,0.02,79.62,0.02
+Fast Filtered Sampling,33.01,0.02,3.89,0.01,2.92,0.01
+Random Packet Sampling,36.9,0.02,4.86,0.01,0.0,0.01
+Selective Flow Sampling,74.76,0.02,6.8,0.01,0.0,0.01
+Sketch Guided Sampling,80.59,0.04,10.68,0.02,0.98,0.01
+SketchFlow,40.78,0.02,20.39,0.01,NA,0.0
+
+
+SSH-BruteForce
+Detection Rate, False Alarm Rate in %
+method \ SR,10%,10%,1%,1%,.1%,.1%
+,DR,FAR,DR,FAR,DR,FAR
+without sampling,99.03,0.68,99.03,0.68,99.03,0.68
+Fast Filtered Sampling,50.44,0.42,18.11,0.17,1.86,0.02
+Random Packet Sampling,48.85,0.4,17.3,0.17,1.96,0.02
+Selective Flow Sampling,98.96,0.7,6.99,0.07,2.72,0.06
+Sketch Guided Sampling,94.9,0.65,33.18,0.2,3.83,0.06
+SketchFlow,48.63,0.34,20.85,0.17,0.02,0.01

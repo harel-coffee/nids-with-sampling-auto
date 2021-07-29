@@ -1,0 +1,28 @@
+0000000000000000000000000000000000000000 a235df9b26b8578af347e978fbee853a2039da8a Jumabek <jumabek4044@gmail.com> 1594252783 +0900	WIP on master: 996dbc7 update
+a235df9b26b8578af347e978fbee853a2039da8a a2685b7d4382053af160866b96b725f6cd0a474e Jumabek <jumabek4044@gmail.com> 1596414095 +0900	WIP on (no branch): 8c34c14 refactoring
+a2685b7d4382053af160866b96b725f6cd0a474e 2ef98e3bd2b43cf24e6573c11e81c95fdf1f51bb Jumabek <jumabek4044@gmail.com> 1596439350 +0900	WIP on master: 207d807 refactor
+2ef98e3bd2b43cf24e6573c11e81c95fdf1f51bb 4fc50363e3ffeb0283833d5ce61798d7482586dd Jumabek <jumabek4044@gmail.com> 1596497746 +0900	WIP on master: 053988d refactor balance
+4fc50363e3ffeb0283833d5ce61798d7482586dd 44a7de9e9cf4365f22829b58a0cc632923b4cad3 Jumabek <jumabek4044@gmail.com> 1596693670 +0900	WIP on master: 7baebc0 refactoring
+44a7de9e9cf4365f22829b58a0cc632923b4cad3 8fcaed409e9db3688f27d781d0dfb3fd59c6fe2e Jumabek <jumabek4044@gmail.com> 1596869916 +0900	WIP on master: 8b52c20 Merge branch 'master' of https://gitlab.com/isrl/intrusion_experiment
+8fcaed409e9db3688f27d781d0dfb3fd59c6fe2e 350bda3ca925ff862935de5290d22f225fb6848b Jumabek <jumabek4044@gmail.com> 1597016384 +0900	WIP on master: 65528fd clean refactor
+350bda3ca925ff862935de5290d22f225fb6848b 58729d93c4bdd8fa598e6f5fbbc6f592c0a89612 Jumabek <jumabek4044@gmail.com> 1597018807 +0900	WIP on master: 2dd9073 update notebook
+58729d93c4bdd8fa598e6f5fbbc6f592c0a89612 9f0d32e4fa5d06a5dda92b55c9dae8e4a9e3fafb Jumabek <jumabek4044@gmail.com> 1597098761 +0900	WIP on master: 92302f6 refactor
+9f0d32e4fa5d06a5dda92b55c9dae8e4a9e3fafb 8b8c8bbfb5381355e4322b425aecc45f63fff0f5 Jumabek <jumabek4044@gmail.com> 1597106310 +0900	WIP on master: ead27d0 Merge branch 'master' of https://gitlab.com/isrl/intrusion_experiment
+8b8c8bbfb5381355e4322b425aecc45f63fff0f5 9fe0cdf95aef6dd10f6e65bde10f40940bb581c5 Jumabek <jumabek4044@gmail.com> 1597108810 +0900	WIP on master: 597ce52 Merge branch 'master' of https://gitlab.com/isrl/intrusion_experiment
+9fe0cdf95aef6dd10f6e65bde10f40940bb581c5 8d2357a41d47632a9b282e24044ac95933c9e8ea Jumabek <jumabek4044@gmail.com> 1597502732 +0900	WIP on master: d849d39 noteboook update
+8d2357a41d47632a9b282e24044ac95933c9e8ea 2032faca538680c2f93a4182c542c846b20bc73e Jumabek <jumabek4044@gmail.com> 1597564938 +0900	WIP on master: eac687e ntb update
+2032faca538680c2f93a4182c542c846b20bc73e c386d8cd71708249a929af2ea295eed9a8a32d84 Jumabek <jumabek4044@gmail.com> 1597627562 +0900	WIP on master: e75f2fb ntb update
+c386d8cd71708249a929af2ea295eed9a8a32d84 8464364d1a93d2cde15f304652a96aa14061dcd3 Jumabek <jumabek4044@gmail.com> 1598151665 +0900	WIP on master: f3c87e0 use milder early stopping
+8464364d1a93d2cde15f304652a96aa14061dcd3 a0430da6537e0b69c40e263ea2f4d47cb5a36862 Jumabek <jumabek4044@gmail.com> 1598319919 +0900	WIP on master: 25d350a refactor
+a0430da6537e0b69c40e263ea2f4d47cb5a36862 31414749d0a2e6b86a9ccfb3d0751e817527c5bd Jumabek <jumabek4044@gmail.com> 1600261078 +0900	WIP on master: 453a754 Merge branch 'master' of https://gitlab.com/isrl/intrusion_experiment
+31414749d0a2e6b86a9ccfb3d0751e817527c5bd 5d2e8ee2b6fee610d88b838e974b9abbe741eaf5 Jumabek <jumabek4044@gmail.com> 1600907117 +0900	WIP on master: 298577a trefactoring
+5d2e8ee2b6fee610d88b838e974b9abbe741eaf5 e280d3f8249f4769c1f067053c14db1729c605ba Jumabek <jumabek4044@gmail.com> 1601369368 +0900	WIP on master: ca73ab7 notebooks
+e280d3f8249f4769c1f067053c14db1729c605ba da0f700c6493966328b1f6ba48423f7079a7f282 Jumabek <jumabek4044@gmail.com> 1601513082 +0900	WIP on master: 9b53b80 improve figures
+da0f700c6493966328b1f6ba48423f7079a7f282 10bc4ddc09626722c0e0ece6f16ece643fb3901f Jumabek <jumabek4044@gmail.com> 1601726415 +0900	WIP on master: 872931c option to plot increase ONLY in malicious fr
+10bc4ddc09626722c0e0ece6f16ece643fb3901f 182c3b32b42524bd3ce2c73c0384ed33ac6521ab Jumabek <jumabek4044@gmail.com> 1601728543 +0900	WIP on master: 8158ee9 test r_fold
+182c3b32b42524bd3ce2c73c0384ed33ac6521ab 78de42a49c535285ac15c25ee17f257370fcb6d1 Jumabek <jumabek4044@gmail.com> 1601887614 +0900	WIP on master: 54b8eff eval update refactor
+78de42a49c535285ac15c25ee17f257370fcb6d1 47b355405e0043e20ee91a5453e2ebda868dceb0 Jumabek <jumabek4044@gmail.com> 1601950151 +0900	WIP on master: df22856 add Increase rate
+47b355405e0043e20ee91a5453e2ebda868dceb0 8a4b377416f8d34a708e6d0f07292af9b5f8da5c Jumabek <jumabek4044@gmail.com> 1602115389 +0900	WIP on master: 40ec8fc inverse balancing, refactor result oggin
+8a4b377416f8d34a708e6d0f07292af9b5f8da5c 0d63cd24d35fcd8d6a353113e506bd60fbf0912d Jumabek <jumabek4044@gmail.com> 1602299025 +0900	WIP on master: 55dc8f7 refactoring
+0d63cd24d35fcd8d6a353113e506bd60fbf0912d 6dae87d75a05d277bb6d712fd1839a05ba462a05 Jumabek <jumabek4044@gmail.com> 1602487405 +0900	WIP on master: a4fae8a ntb update
+6dae87d75a05d277bb6d712fd1839a05ba462a05 c5b396e2d9e3d467e7aa48712477f22b5b90826d Jumabek <jumabek4044@gmail.com> 1603161682 +0900	WIP on master: 5867321 refactoring

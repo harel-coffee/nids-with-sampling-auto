@@ -1,0 +1,286 @@
+0000000000000000000000000000000000000000 6d8529d763e408d6919ea228b52ccf4bcfe49d5a Jumabek <jumabek4044@gmail.com> 1587356995 +0900	clone: from https://gitlab.com/isrl/intrusion_experiment.git
+6d8529d763e408d6919ea228b52ccf4bcfe49d5a c41540cd985e8bfcad60be4a2e2368be419cbab4 Jumabek <jumabek4044@gmail.com> 1587610894 +0900	pull origin master: Fast-forward
+c41540cd985e8bfcad60be4a2e2368be419cbab4 3c2e611063190ce4bcfb50e111cd310dfd97c3e7 Jumabek <jumabek4044@gmail.com> 1587628756 +0900	commit: reorganize
+3c2e611063190ce4bcfb50e111cd310dfd97c3e7 9182282c946e31b8c56284bdecd4c3ff7a0bebfd Jumabek <jumabek4044@gmail.com> 1587693584 +0900	commit: developing
+9182282c946e31b8c56284bdecd4c3ff7a0bebfd 420065d4ff303fc2b56591d792bce0ccc083aa89 Jumabek <jumabek4044@gmail.com> 1587693970 +0900	commit: split trian/eval
+420065d4ff303fc2b56591d792bce0ccc083aa89 be33d1045b4ed5d5ded660c56d3d88b3002e71b7 Jumabek <jumabek4044@gmail.com> 1588151519 +0900	commit: code for ddos19
+be33d1045b4ed5d5ded660c56d3d88b3002e71b7 ee86cf1ba9b6799857808d0fecfd4182f3f509a5 Jumabek <jumabek4044@gmail.com> 1588151546 +0900	commit: train/evaluator added for ddos
+ee86cf1ba9b6799857808d0fecfd4182f3f509a5 e71ecdc9939789ab1cd353f157f1e1d063558674 Jumabek <jumabek4044@gmail.com> 1588313896 +0900	commit: dev code for modular eval
+e71ecdc9939789ab1cd353f157f1e1d063558674 7de90a36697041c13f56a12d4bd4bdb62cf86249 Jumabek <jumabek4044@gmail.com> 1588323283 +0900	commit: eveluation printing is working for ddos19
+7de90a36697041c13f56a12d4bd4bdb62cf86249 97e7d65224aa1be7ae08fbb56bf4cf1c6204cd7d Jumabek <jumabek4044@gmail.com> 1588360261 +0900	commit: train/eval cnn is up and working
+97e7d65224aa1be7ae08fbb56bf4cf1c6204cd7d 4e4930733bccd7352c4c1f9e56c8e3b1d0a56297 Jumabek <jumabek4044@gmail.com> 1588405320 +0900	commit: refactor, simplify
+4e4930733bccd7352c4c1f9e56c8e3b1d0a56297 70f78650b3a92900f889a7a37fb00b4a25180f70 Jumabek <jumabek4044@gmail.com> 1588922815 +0900	commit: changes
+70f78650b3a92900f889a7a37fb00b4a25180f70 7fd65ce1ce4054e3d80482fe844eb1058d67e9ba Jumabek <jumabek4044@gmail.com> 1589089940 +0900	commit: refactor
+7fd65ce1ce4054e3d80482fe844eb1058d67e9ba c9a7ad1b31cc64a1ebc320458de0b2afdf882dd7 Jumabek <jumabek4044@gmail.com> 1589089947 +0900	pull origin master: Merge made by the 'recursive' strategy.
+c9a7ad1b31cc64a1ebc320458de0b2afdf882dd7 a92fd44b91acb14f2a5535b8a1e801c01597ab79 Jumabek <jumabek4044@gmail.com> 1589096082 +0900	commit: refactor
+a92fd44b91acb14f2a5535b8a1e801c01597ab79 39e84f78cd93b24ac57e03df18d829480058040a Jumabek <jumabek4044@gmail.com> 1589348765 +0900	commit: adjustments for ids18
+39e84f78cd93b24ac57e03df18d829480058040a 8a64611ff6f03a97e0b03dc823d1c30c01b80ba7 Jumabek <jumabek4044@gmail.com> 1589451421 +0900	commit: 1) remove normalize_data, 2) add get_ids18_root
+8a64611ff6f03a97e0b03dc823d1c30c01b80ba7 7769741530292a1c9b5a38ace5c0e7391d6e84ea Jumabek <jumabek4044@gmail.com> 1589451459 +0900	commit: readjust for ids18 after fixing #CF
+7769741530292a1c9b5a38ace5c0e7391d6e84ea e8ff844c1858118ce5f0ddc23a8a2531f324fc99 Jumabek <jumabek4044@gmail.com> 1589451523 +0900	commit: refactor
+e8ff844c1858118ce5f0ddc23a8a2531f324fc99 94767f0252f2ca5d7384e9d62b5081e4df870898 Jumabek <jumabek4044@gmail.com> 1589513055 +0900	commit: 1. refactor
+94767f0252f2ca5d7384e9d62b5081e4df870898 9f8247481a27787d9a44127c59b0bb7e705a74a1 Jumabek <jumabek4044@gmail.com> 1589529292 +0900	commit: notebook updates
+9f8247481a27787d9a44127c59b0bb7e705a74a1 81b6501a44b5ac38a8c55fee66e850618b06a70a Jumabek <jumabek4044@gmail.com> 1589697960 +0900	commit: updates
+81b6501a44b5ac38a8c55fee66e850618b06a70a 968b585315ee09ceaa3c3d88505f4a39c97e22f5 Jumabek <jumabek4044@gmail.com> 1589697987 +0900	commit: refactor
+968b585315ee09ceaa3c3d88505f4a39c97e22f5 41031cc620a43a5c0044377a8550410b287c78d5 Jumabek <jumabek4044@gmail.com> 1589765522 +0900	commit: Detection Rate drop is now as expected
+41031cc620a43a5c0044377a8550410b287c78d5 b5f49925d9e693694a6d7b6cf06e25c966dc8eac Jumabek <jumabek4044@gmail.com> 1589765605 +0900	commit: checked grouping flowids
+b5f49925d9e693694a6d7b6cf06e25c966dc8eac a68209e1e81b095cdb16698c47e69ffd58fda774 Jumabek <jumabek4044@gmail.com> 1589826548 +0900	commit: notebook updates
+a68209e1e81b095cdb16698c47e69ffd58fda774 a6e8ba62b9f67478072f6943ec9c412020809ad3 Jumabek <jumabek4044@gmail.com> 1589826563 +0900	commit: updates
+a6e8ba62b9f67478072f6943ec9c412020809ad3 b069accdb206fcd482601762e02d9ac1ff15979f Jumabek <jumabek4044@gmail.com> 1589826574 +0900	pull origin master: Merge made by the 'recursive' strategy.
+b069accdb206fcd482601762e02d9ac1ff15979f bf682f40c118af4e64b7c0acbe954369358c7b54 Jumabek <jumabek4044@gmail.com> 1589863651 +0900	commit: update ids18 figures
+bf682f40c118af4e64b7c0acbe954369358c7b54 02684a7044c3ef6ec5feacf537e6a17b5734276f Jumabek <jumabek4044@gmail.com> 1589863702 +0900	commit: make new moduel for timing inference
+02684a7044c3ef6ec5feacf537e6a17b5734276f 23a09a05a8175029fef351b087cba8f7caef5c62 Jumabek <jumabek4044@gmail.com> 1589865867 +0900	commit: notebooks
+23a09a05a8175029fef351b087cba8f7caef5c62 759f6f67b0cc717398eb188a0094c2420dd614c2 Jumabek <jumabek4044@gmail.com> 1589878814 +0900	pull origin master: Fast-forward
+759f6f67b0cc717398eb188a0094c2420dd614c2 75e09a47b3d2a748b6dd0b6bd259090e4c432e07 Jumabek <jumabek4044@gmail.com> 1589913681 +0900	commit: notebook update
+75e09a47b3d2a748b6dd0b6bd259090e4c432e07 cd389473ee3bccede806bfa2f8c83ce8b0ae0179 Jumabek <jumabek4044@gmail.com> 1589913828 +0900	commit: fix typo in result_logger_ids18
+cd389473ee3bccede806bfa2f8c83ce8b0ae0179 fb2f967c58dadc01d5a460f66a1d2b4042193aec Jumabek <jumabek4044@gmail.com> 1589914399 +0900	commit: refactor
+fb2f967c58dadc01d5a460f66a1d2b4042193aec b8d4380a9e6dead37be85238fea150ae33042cf4 Jumabek <jumabek4044@gmail.com> 1589915055 +0900	commit: calls across memories
+b8d4380a9e6dead37be85238fea150ae33042cf4 79f5b68303b927904c826a62f466a0af3a7c4354 Jumabek <jumabek4044@gmail.com> 1590375660 +0900	commit: refactor
+79f5b68303b927904c826a62f466a0af3a7c4354 a79dfc61472404b1a7f0947e9ad1329a07645e14 Jumabek <jumabek4044@gmail.com> 1590375723 +0900	commit: refactor
+a79dfc61472404b1a7f0947e9ad1329a07645e14 6c060d3dfe2d6453597eade13f35eb6d5c6b53e8 Jumabek <jumabek4044@gmail.com> 1590375754 +0900	commit: fix typo
+6c060d3dfe2d6453597eade13f35eb6d5c6b53e8 4ddc4ad59c074e6298ce3364a66290d923bf766f Jumabek <jumabek4044@gmail.com> 1590375792 +0900	commit: calc flow obs. before removing small class
+4ddc4ad59c074e6298ce3364a66290d923bf766f 6ea7b35bac45939414b4fee513ab73d4e1ca63f8 Jumabek <jumabek4044@gmail.com> 1590393056 +0900	commit: clean code is an art
+6ea7b35bac45939414b4fee513ab73d4e1ca63f8 b0b7cbe7b28cd62a80cf72104848a0e2abc81a52 Jumabek <jumabek4044@gmail.com> 1590393097 +0900	commit: temporary path cahnges
+b0b7cbe7b28cd62a80cf72104848a0e2abc81a52 56218869199f2d3c88fc87b5794dcc6d3c4b830b Jumabek <jumabek4044@gmail.com> 1590393187 +0900	commit (merge): fix merge issue with paths
+56218869199f2d3c88fc87b5794dcc6d3c4b830b e8daaf4ef50328ee062a6d29fcc87d6482de5e3e Jumabek <jumabek4044@gmail.com> 1590393257 +0900	commit: rmove predict part
+e8daaf4ef50328ee062a6d29fcc87d6482de5e3e 53142840b0277933b4a978bc5d7910b67ee8e0f4 Jumabek <jumabek4044@gmail.com> 1590402421 +0900	commit: refactor
+53142840b0277933b4a978bc5d7910b67ee8e0f4 1b2b2ffe1618b00f1878693ca4eb13549c649c73 Jumabek <jumabek4044@gmail.com> 1590402447 +0900	commit: refactor
+1b2b2ffe1618b00f1878693ca4eb13549c649c73 2b8f5d3c90205b1e6a3087481d40bb7b6cc54fc2 Jumabek <jumabek4044@gmail.com> 1590425310 +0900	commit: fix clf pickle path
+2b8f5d3c90205b1e6a3087481d40bb7b6cc54fc2 c23ab3e50577314d1f553bd2c23bbf741045b596 Jumabek <jumabek4044@gmail.com> 1590425408 +0900	commit: refactor
+c23ab3e50577314d1f553bd2c23bbf741045b596 0cb03003a4117ae6c61a29e379067fdb03c2651f Jumabek <jumabek4044@gmail.com> 1590557312 +0900	commit: upd
+0cb03003a4117ae6c61a29e379067fdb03c2651f b969c661ac49ae4489372d9fe17832f1efeb823d Jumabek <jumabek4044@gmail.com> 1590557353 +0900	commit: refactor
+b969c661ac49ae4489372d9fe17832f1efeb823d a6cd8f93404cd1e93bbd7936767e2f60e25fb8c5 Jumabek <jumabek4044@gmail.com> 1590557376 +0900	commit: spacing
+a6cd8f93404cd1e93bbd7936767e2f60e25fb8c5 b1c0c9f41639387062d22dfec493266898c11fe1 Jumabek <jumabek4044@gmail.com> 1590587296 +0900	commit: fix bookkeper
+b1c0c9f41639387062d22dfec493266898c11fe1 7bfbab9ab37d43c0cde9584c527ab660064d6a7c Jumabek <jumabek4044@gmail.com> 1590587340 +0900	commit: ensure logdir for forest/tree model saving
+7bfbab9ab37d43c0cde9584c527ab660064d6a7c a768723d2006df63aaf5ac2dcb4f298e662fee77 Jumabek <jumabek4044@gmail.com> 1592962241 +0900	commit: notebook
+a768723d2006df63aaf5ac2dcb4f298e662fee77 bd441afa4045024deb2b25f90761ff479b6f4e83 Jumabek <jumabek4044@gmail.com> 1592962299 +0900	commit: getSeed from function
+bd441afa4045024deb2b25f90761ff479b6f4e83 75f652ab532e6d094b97b5d5c5db99b0d8b1ec02 Jumabek <jumabek4044@gmail.com> 1592962359 +0900	commit: no need for file ending
+75f652ab532e6d094b97b5d5c5db99b0d8b1ec02 0ac9f4bdd88f68d8ceab64ec26e844beca548668 Jumabek <jumabek4044@gmail.com> 1592962409 +0900	commit: refactoring
+0ac9f4bdd88f68d8ceab64ec26e844beca548668 86f8b18f0a88ccfa817cff9381ec80cf5140a7e1 Jumabek <jumabek4044@gmail.com> 1594014525 +0900	commit: add day for grouping (in progress)
+86f8b18f0a88ccfa817cff9381ec80cf5140a7e1 98cb46cb3fd352baed1011c09d0a9b2e6faf21da Jumabek <jumabek4044@gmail.com> 1594014569 +0900	commit: add day to grouping
+98cb46cb3fd352baed1011c09d0a9b2e6faf21da 372be459b436d6c973770d96c56d97a6eca2488c Jumabek <jumabek4044@gmail.com> 1594014631 +0900	commit: splits flow ids for making fold
+372be459b436d6c973770d96c56d97a6eca2488c d28cc576b3ab19844e7be3ce450fbd60fb3548c8 Jumabek <jumabek4044@gmail.com> 1594014670 +0900	pull origin master: Merge made by the 'recursive' strategy.
+d28cc576b3ab19844e7be3ce450fbd60fb3548c8 cf93b65e8e592fed6233b6e120ab177574dfd90d Jumabek <jumabek4044@gmail.com> 1594104031 +0900	pull origin master: Fast-forward
+cf93b65e8e592fed6233b6e120ab177574dfd90d 66bfaf9e98b73c0fc59d7a1eb9b87d59b646b9f0 Jumabek <jumabek4044@gmail.com> 1594109297 +0900	pull origin master: Fast-forward
+66bfaf9e98b73c0fc59d7a1eb9b87d59b646b9f0 e86abd4ad9e87718bab049c195e025329c7bfb9e Jumabek <jumabek4044@gmail.com> 1594124332 +0900	commit: alternative to make fold
+e86abd4ad9e87718bab049c195e025329c7bfb9e afc83d81c2d9735b9791cd63530fec8bc4f9228c Jumabek <jumabek4044@gmail.com> 1594124649 +0900	pull origin master: Fast-forward
+afc83d81c2d9735b9791cd63530fec8bc4f9228c 5a109e0117ccf69b434471c6edf307315c6f8050 Jumabek <jumabek4044@gmail.com> 1594171071 +0900	commit: upd
+5a109e0117ccf69b434471c6edf307315c6f8050 62fe4070f09917803de3e1a1ddb39327d0cf7574 Jumabek <jumabek4044@gmail.com> 1594171635 +0900	pull origin master: Merge made by the 'recursive' strategy.
+62fe4070f09917803de3e1a1ddb39327d0cf7574 39969d65e993cf4c817f2de98940c4dc0c8e93f9 Jumabek <jumabek4044@gmail.com> 1594252610 +0900	commit: calc data stats seperately
+39969d65e993cf4c817f2de98940c4dc0c8e93f9 996dbc74f578850213b607aaa5ce4dc9d498925f Jumabek <jumabek4044@gmail.com> 1594252640 +0900	commit: update
+996dbc74f578850213b607aaa5ce4dc9d498925f 19b091ae98752046fe7e9382472171760c5d5f85 Jumabek <jumabek4044@gmail.com> 1594252791 +0900	pull origin master: Merge made by the 'recursive' strategy.
+19b091ae98752046fe7e9382472171760c5d5f85 66ffb05474c079df9b0cfe2cf77a626f73ac6d6b Jumabek <jumabek4044@gmail.com> 1594282707 +0900	commit: fixed bug
+66ffb05474c079df9b0cfe2cf77a626f73ac6d6b 0005e46ea0b4c2eff1efdfe2d72f0c0313ec8c84 Jumabek <jumabek4044@gmail.com> 1594353838 +0900	commit: working version
+0005e46ea0b4c2eff1efdfe2d72f0c0313ec8c84 58d181d74680b324700b91294f8b3802202ae80a Jumabek <jumabek4044@gmail.com> 1594388800 +0900	commit: reorganize
+58d181d74680b324700b91294f8b3802202ae80a ee462a1ba8ac561eb0e684f8fa446d5407a675c4 Jumabek <jumabek4044@gmail.com> 1594388809 +0900	pull origin master: Merge made by the 'recursive' strategy.
+ee462a1ba8ac561eb0e684f8fa446d5407a675c4 6b76164aeb8d3cd6e0b30ff28d2ccd3176de64c7 Jumabek <jumabek4044@gmail.com> 1594622176 +0900	commit: update types, column names
+6b76164aeb8d3cd6e0b30ff28d2ccd3176de64c7 ad9cad78bd997227b5b968ffb89c69f6e08cd3fb Jumabek <jumabek4044@gmail.com> 1594622229 +0900	commit: add fold balancer
+ad9cad78bd997227b5b968ffb89c69f6e08cd3fb 8bf74c63574984818441e74222d542999bd22e72 Jumabek <jumabek4044@gmail.com> 1594622842 +0900	commit: updated
+8bf74c63574984818441e74222d542999bd22e72 ddb9e285c8bf3168d0f61de46bb193bf587c38e5 Jumabek <jumabek4044@gmail.com> 1594687854 +0900	pull origin master: Fast-forward
+ddb9e285c8bf3168d0f61de46bb193bf587c38e5 893cdbe9005761713b59f72bb6a1e504b71e84eb Jumabek <jumabek4044@gmail.com> 1594691389 +0900	pull origin master: Fast-forward
+893cdbe9005761713b59f72bb6a1e504b71e84eb db0a74d9624b407dffa9aa9d51778476e891033f Jumabek <jumabek4044@gmail.com> 1594695476 +0900	commit: refactor
+db0a74d9624b407dffa9aa9d51778476e891033f 319985d1cb4f7c66355abc81aba3ab59c289f7a7 Jumabek <jumabek4044@gmail.com> 1594695698 +0900	commit: refactor
+319985d1cb4f7c66355abc81aba3ab59c289f7a7 394a3967decfb1df7406682e1f5c901eb4cafb61 Jumabek <jumabek4044@gmail.com> 1594699029 +0900	commit: cnn evaluator add
+394a3967decfb1df7406682e1f5c901eb4cafb61 70fce6f3f7a4c98a6b879e96a98a253ba6604750 Jumabek <jumabek4044@gmail.com> 1594706927 +0900	commit: refactor
+70fce6f3f7a4c98a6b879e96a98a253ba6604750 549a969a743cb6702ebd0cb8e3b9b06e697c3274 Jumabek <jumabek4044@gmail.com> 1594726040 +0900	pull origin master: Fast-forward
+549a969a743cb6702ebd0cb8e3b9b06e697c3274 1db7398cddcf9f14bb4a15dc0f0735457c82c501 Jumabek <jumabek4044@gmail.com> 1594773710 +0900	pull origin master: Fast-forward
+1db7398cddcf9f14bb4a15dc0f0735457c82c501 ee997719d15a5609241e83d5350f90a0091c5632 Jumabek <jumabek4044@gmail.com> 1594776008 +0900	commit: change path of flow dist accordingly
+ee997719d15a5609241e83d5350f90a0091c5632 220cb4f9822f8c98f81bf4dfef1a067d7c276ed1 Jumabek <jumabek4044@gmail.com> 1595295923 +0900	commit: move secondary
+220cb4f9822f8c98f81bf4dfef1a067d7c276ed1 ba85eaa4ea320220e90ea0a88ff1f8b46de340a8 Jumabek <jumabek4044@gmail.com> 1595295963 +0900	commit: notbk chngs
+ba85eaa4ea320220e90ea0a88ff1f8b46de340a8 b663cfd7ef92c9c6dea2e842fa2f62c553bde6a5 Jumabek <jumabek4044@gmail.com> 1595295979 +0900	commit: archive
+b663cfd7ef92c9c6dea2e842fa2f62c553bde6a5 74d981ef74e0f56ca548c492a0f898850eabb760 Jumabek <jumabek4044@gmail.com> 1595296548 +0900	pull origin master: Merge made by the 'recursive' strategy.
+74d981ef74e0f56ca548c492a0f898850eabb760 e955daed3d117731b1250e5f7c8a6c1b07864e21 Jumabek <jumabek4044@gmail.com> 1595507692 +0900	commit: moved to legacy codes to archive
+e955daed3d117731b1250e5f7c8a6c1b07864e21 695781d9595ef2fec02f80beb2b794e733b201ee Jumabek <jumabek4044@gmail.com> 1595507759 +0900	commit: deleted/moved
+695781d9595ef2fec02f80beb2b794e733b201ee ec356a24eace83e6b8af487a265c962f85883cd8 Jumabek <jumabek4044@gmail.com> 1595507808 +0900	commit: clean and working
+ec356a24eace83e6b8af487a265c962f85883cd8 87cfae61b4f278dc5b80a1939551d0fc39be892b Jumabek <jumabek4044@gmail.com> 1595507821 +0900	commit: clean
+87cfae61b4f278dc5b80a1939551d0fc39be892b 226fd143eb20b7a0e7b3dfc60d928b57368f7e2f Jumabek <jumabek4044@gmail.com> 1595507840 +0900	commit: useful command for forming train.csvv
+226fd143eb20b7a0e7b3dfc60d928b57368f7e2f 5d3d2139897cf70808d26aeaf877e53f634a77f9 Jumabek <jumabek4044@gmail.com> 1595507871 +0900	commit: new files for big data processing
+5d3d2139897cf70808d26aeaf877e53f634a77f9 fc7c513093c733d1b6ae5d68d69bcca6b77524b4 Jumabek <jumabek4044@gmail.com> 1595507894 +0900	commit: rename eval_caller.py
+fc7c513093c733d1b6ae5d68d69bcca6b77524b4 0b01e52d82b588fead7193964d1752e0d6a5ed21 Jumabek <jumabek4044@gmail.com> 1595732227 +0900	commit: After ML classifier Experiment
+0b01e52d82b588fead7193964d1752e0d6a5ed21 1d38c5ffe9544198d49d97312239174638cb22dd Jumabek <jumabek4044@gmail.com> 1595838648 +0900	commit: removed train_fold function
+1d38c5ffe9544198d49d97312239174638cb22dd bb48c65ae936948d85e67268bfe8c80b51b16a17 Jumabek <jumabek4044@gmail.com> 1595898173 +0900	commit: oversample up to max mal. category, 2) divide count by 5 for per-fold
+bb48c65ae936948d85e67268bfe8c80b51b16a17 690c592294150b3dead7f743e2431986575f2c10 Jumabek <jumabek4044@gmail.com> 1595898217 +0900	commit: refactoring
+690c592294150b3dead7f743e2431986575f2c10 90d84d9b507c7fff1b83497930165b26d63c9dac Jumabek <jumabek4044@gmail.com> 1595898346 +0900	commit: cnn_evaluator.py
+90d84d9b507c7fff1b83497930165b26d63c9dac 2fd797a09cbfacb68f3bd4fa17e80f238fb91db4 Jumabek <jumabek4044@gmail.com> 1595898365 +0900	commit: refactoring
+2fd797a09cbfacb68f3bd4fa17e80f238fb91db4 c0d72851c02c577bf0392cb5f35b5b12f00a83ab Jumabek <jumabek4044@gmail.com> 1595898750 +0900	commit: naming
+c0d72851c02c577bf0392cb5f35b5b12f00a83ab d5c5adbf61ef4492b5f07da31cd853cac9f63b81 Jumabek <jumabek4044@gmail.com> 1595898914 +0900	commit: add gitignore
+d5c5adbf61ef4492b5f07da31cd853cac9f63b81 80b7edefb092fc480ef0149500f859fadd4c278f Jumabek <jumabek4044@gmail.com> 1595902389 +0900	commit: refactoring
+80b7edefb092fc480ef0149500f859fadd4c278f bad399434aff3466a94a9229c1d246194d5d48a3 Jumabek <jumabek4044@gmail.com> 1595902433 +0900	commit: use group counts
+bad399434aff3466a94a9229c1d246194d5d48a3 43bf453d5e8e97cbe6408b426a26b284ff8899a2 Jumabek <jumabek4044@gmail.com> 1595930134 +0900	commit: fix evaluation bug with flow labels
+43bf453d5e8e97cbe6408b426a26b284ff8899a2 ae4b25e3cd04a0fa7deffbf34e4e71f98152660b Jumabek <jumabek4044@gmail.com> 1595981732 +0900	commit: 400K records for validation
+ae4b25e3cd04a0fa7deffbf34e4e71f98152660b 3bc4648fa587cb7d5c7abcd65d8e8db9f703b4f1 Jumabek <jumabek4044@gmail.com> 1596017362 +0900	commit: fix evaluation of cnn
+3bc4648fa587cb7d5c7abcd65d8e8db9f703b4f1 431b44b8c024efa06ee3a3699cdaa51d29637992 Jumabek <jumabek4044@gmail.com> 1596017398 +0900	pull origin master: Merge made by the 'recursive' strategy.
+431b44b8c024efa06ee3a3699cdaa51d29637992 3bc4648fa587cb7d5c7abcd65d8e8db9f703b4f1 Jumabek <jumabek4044@gmail.com> 1596017533 +0900	checkout: moving from master to 3bc4648f
+3bc4648fa587cb7d5c7abcd65d8e8db9f703b4f1 ae4b25e3cd04a0fa7deffbf34e4e71f98152660b Jumabek <jumabek4044@gmail.com> 1596022375 +0900	reset: moving to ae4b25e3cd04a0fa7deffbf34e4e71f98152660b
+ae4b25e3cd04a0fa7deffbf34e4e71f98152660b d5d3d015ca915a6c7c38f9cd68209f1751eb10b7 Jumabek <jumabek4044@gmail.com> 1596022492 +0900	commit: fix cnn eval
+d5d3d015ca915a6c7c38f9cd68209f1751eb10b7 63a09f614e7ddd153d3a139fe916e30a1a1d21ae Jumabek <jumabek4044@gmail.com> 1596073971 +0900	pull origin master: Merge made by the 'recursive' strategy.
+63a09f614e7ddd153d3a139fe916e30a1a1d21ae 8c34c1428512c916ad9b73ddd43bb4148464c241 Jumabek <jumabek4044@gmail.com> 1596414089 +0900	commit: refactoring
+8c34c1428512c916ad9b73ddd43bb4148464c241 ec22be5e7b003b8d6180e66461d19cadb7e94b9b Jumabek <jumabek4044@gmail.com> 1596414147 +0900	commit (merge): conflict fixed
+ec22be5e7b003b8d6180e66461d19cadb7e94b9b 431b44b8c024efa06ee3a3699cdaa51d29637992 Jumabek <jumabek4044@gmail.com> 1596414651 +0900	checkout: moving from ec22be5e7b003b8d6180e66461d19cadb7e94b9b to master
+431b44b8c024efa06ee3a3699cdaa51d29637992 ec22be5e7b003b8d6180e66461d19cadb7e94b9b Jumabek <jumabek4044@gmail.com> 1596414669 +0900	merge my-temporary-work: Fast-forward
+ec22be5e7b003b8d6180e66461d19cadb7e94b9b 1af80d547433879b5bcddee051c1996d0d734dbd Jumabek <jumabek4044@gmail.com> 1596415664 +0900	commit: always use allnorm from now on
+1af80d547433879b5bcddee051c1996d0d734dbd 3d81f0787dae856e3dc5d374123dc3d775624606 Jumabek <jumabek4044@gmail.com> 1596416756 +0900	commit: fix
+3d81f0787dae856e3dc5d374123dc3d775624606 1eb045f1160fcf544c206f825f392c7223791a2c Jumabek <jumabek4044@gmail.com> 1596417994 +0900	commit: from now on normalize all
+1eb045f1160fcf544c206f825f392c7223791a2c 1e5cb520ede3131a164f15783a1674bc039ad2b5 Jumabek <jumabek4044@gmail.com> 1596418951 +0900	pull origin master: Fast-forward
+1e5cb520ede3131a164f15783a1674bc039ad2b5 207d80762c4dd951b737dd7250b1bee3c82d159c Jumabek <jumabek4044@gmail.com> 1596423399 +0900	commit: refactor
+207d80762c4dd951b737dd7250b1bee3c82d159c 053988d1d8b4a80cf3f0e50b3349e76ad5db3cb0 Jumabek <jumabek4044@gmail.com> 1596439358 +0900	pull origin master: Fast-forward
+053988d1d8b4a80cf3f0e50b3349e76ad5db3cb0 e9fef8e15a21f0cce996df7b792c7cc702e98f1e Jumabek <jumabek4044@gmail.com> 1596497753 +0900	pull origin master: Fast-forward
+e9fef8e15a21f0cce996df7b792c7cc702e98f1e 1779368286523806ceb12c7546b39a6787072297 Jumabek <jumabek4044@gmail.com> 1596587981 +0900	commit: merge
+1779368286523806ceb12c7546b39a6787072297 5d7b41ce8d274d766227ed41d0b783eca22661f4 Jumabek <jumabek4044@gmail.com> 1596588005 +0900	commit: fix bug in abs_recall
+5d7b41ce8d274d766227ed41d0b783eca22661f4 2096aba69964c6b50249153979b7877376b854a2 Jumabek <jumabek4044@gmail.com> 1596588047 +0900	commit: fix balanced_acc calc
+2096aba69964c6b50249153979b7877376b854a2 292efe20e807f2347c6996dfcfe2e4e6a5a1df69 Jumabek <jumabek4044@gmail.com> 1596601667 +0900	commit: refactoring, fices
+292efe20e807f2347c6996dfcfe2e4e6a5a1df69 d398867db7170aa2d4e2044a883e4de1bb4df002 Jumabek <jumabek4044@gmail.com> 1596674131 +0900	commit: fix bug in cnn_evaluator
+d398867db7170aa2d4e2044a883e4de1bb4df002 171fbb4de7ed7537ba1e1027a434191b5cfe9dde Jumabek <jumabek4044@gmail.com> 1596674233 +0900	commit: measure total cnn eval time
+171fbb4de7ed7537ba1e1027a434191b5cfe9dde 7baebc062d31a809a14bbf57254de301a3623b4e Jumabek <jumabek4044@gmail.com> 1596693651 +0900	commit: refactoring
+7baebc062d31a809a14bbf57254de301a3623b4e a7565b9ca15af2422ceedd66f6510d8339ee7087 Jumabek <jumabek4044@gmail.com> 1596693675 +0900	pull origin master: Merge made by the 'recursive' strategy.
+a7565b9ca15af2422ceedd66f6510d8339ee7087 c4f3fb71bb7764318ca29f554c1cfe07048215c0 Jumabek <jumabek4044@gmail.com> 1596867841 +0900	commit: notebook update
+c4f3fb71bb7764318ca29f554c1cfe07048215c0 8b52c20ab81cb692fd87ad717663251f7de42d16 Jumabek <jumabek4044@gmail.com> 1596867850 +0900	pull origin master: Merge made by the 'recursive' strategy.
+8b52c20ab81cb692fd87ad717663251f7de42d16 2f22238c6f28fda9f509983151bffe52f34548fa Jumabek <jumabek4044@gmail.com> 1596869934 +0900	pull origin master: Merge made by the 'recursive' strategy.
+2f22238c6f28fda9f509983151bffe52f34548fa 37133a80b9d002eacbaba9fe876395524a3785da Jumabek <jumabek4044@gmail.com> 1596876593 +0900	commit: use seed for balancing as well
+37133a80b9d002eacbaba9fe876395524a3785da e23bbd977c6c663988b2ed958df555fbc7e2dbbc Jumabek <jumabek4044@gmail.com> 1596973630 +0900	commit: refactoring get_args parameters
+e23bbd977c6c663988b2ed958df555fbc7e2dbbc 65528fde78b1a24dc1a1fe5413846534eff50800 Jumabek <jumabek4044@gmail.com> 1596983581 +0900	commit: clean refactor
+65528fde78b1a24dc1a1fe5413846534eff50800 3a0e6d42e3511217e1760e7cf8f8cc04252b82b9 Jumabek <jumabek4044@gmail.com> 1597016392 +0900	pull origin master: Fast-forward
+3a0e6d42e3511217e1760e7cf8f8cc04252b82b9 2dd9073ff80eb10cb8f871cedefe93b94a424050 Jumabek <jumabek4044@gmail.com> 1597018803 +0900	commit: update notebook
+2dd9073ff80eb10cb8f871cedefe93b94a424050 5eb65160831fe5bf7609ba5a48392c35d2587036 Jumabek <jumabek4044@gmail.com> 1597018816 +0900	pull origin master: Merge made by the 'recursive' strategy.
+5eb65160831fe5bf7609ba5a48392c35d2587036 658160865dcf829f87efa4b473a9338b83e826a9 Jumabek <jumabek4044@gmail.com> 1597098676 +0900	commit: nb update
+658160865dcf829f87efa4b473a9338b83e826a9 92302f6bf5d46411d874e051e3ac3640110cb2ec Jumabek <jumabek4044@gmail.com> 1597098743 +0900	commit: refactor
+92302f6bf5d46411d874e051e3ac3640110cb2ec ead27d00aeb0cd43b5be1dbfa401157bc5a960b4 Jumabek <jumabek4044@gmail.com> 1597098771 +0900	pull origin master: Merge made by the 'recursive' strategy.
+ead27d00aeb0cd43b5be1dbfa401157bc5a960b4 597ce5235012e8655213133291627066278824c7 Jumabek <jumabek4044@gmail.com> 1597106317 +0900	pull origin master: Merge made by the 'recursive' strategy.
+597ce5235012e8655213133291627066278824c7 e45bc3d2e725c874d8e1e2d5d8fb234d52afed69 Jumabek <jumabek4044@gmail.com> 1597127356 +0900	commit (merge): evaluator is fixe
+e45bc3d2e725c874d8e1e2d5d8fb234d52afed69 42ef94c107cf8c0ec1c81cca55969030efe19cfe Jumabek <jumabek4044@gmail.com> 1597287888 +0900	commit: notebooks
+42ef94c107cf8c0ec1c81cca55969030efe19cfe a4814f9f246270adc36497e47f0d5eef08e7dffa Jumabek <jumabek4044@gmail.com> 1597413053 +0900	commit: updates
+a4814f9f246270adc36497e47f0d5eef08e7dffa 79b01959a147bcd29c6c536a90024479cce27ec1 Jumabek <jumabek4044@gmail.com> 1597413176 +0900	commit: fixing plot cm
+79b01959a147bcd29c6c536a90024479cce27ec1 22bd629304093c31643d55d342da06f5eac1fb7b Jumabek <jumabek4044@gmail.com> 1597413236 +0900	commit: 1. rename. 2. fold0 only split
+22bd629304093c31643d55d342da06f5eac1fb7b 19bd35d4f35e4eaa8fb9e18eaf9e87a5905f1344 Jumabek <jumabek4044@gmail.com> 1597413670 +0900	commit: fold0
+19bd35d4f35e4eaa8fb9e18eaf9e87a5905f1344 29eba0aaa1a452204ee88a734f056e45d6a26570 Jumabek <jumabek4044@gmail.com> 1597454790 +0900	commit: chunk prediction
+29eba0aaa1a452204ee88a734f056e45d6a26570 8ef4f8e7cc7d1196cd013437bfa8fcd4f630684e Jumabek <jumabek4044@gmail.com> 1597472207 +0900	commit: flow_obsr update
+8ef4f8e7cc7d1196cd013437bfa8fcd4f630684e d849d399f4d18e8731d93ba2d864bd095738d836 Jumabek <jumabek4044@gmail.com> 1597502703 +0900	commit: noteboook update
+d849d399f4d18e8731d93ba2d864bd095738d836 716f448e20af1ce520cae6018db5094541e24108 Jumabek <jumabek4044@gmail.com> 1597502742 +0900	pull origin master: Merge made by the 'recursive' strategy.
+716f448e20af1ce520cae6018db5094541e24108 eac687e62056e0b1565331bd23a121f36e03d35b Jumabek <jumabek4044@gmail.com> 1597564923 +0900	commit: ntb update
+eac687e62056e0b1565331bd23a121f36e03d35b b74fbe77c3b87ddd4cd8ae3cb8b6fe7d38f73ff1 Jumabek <jumabek4044@gmail.com> 1597564944 +0900	pull origin master: Merge made by the 'recursive' strategy.
+b74fbe77c3b87ddd4cd8ae3cb8b6fe7d38f73ff1 80d6474bf9a96cb92e3d5df247668e0dda7de395 Jumabek <jumabek4044@gmail.com> 1597601229 +0900	pull origin master: Merge made by the 'recursive' strategy.
+80d6474bf9a96cb92e3d5df247668e0dda7de395 e75f2fbd2cdf2b33910bacc5e942f08eb4092328 Jumabek <jumabek4044@gmail.com> 1597627536 +0900	commit: ntb update
+e75f2fbd2cdf2b33910bacc5e942f08eb4092328 134db0ef8c0a4798dc637274d759e5d7a2e618b3 Jumabek <jumabek4044@gmail.com> 1597627568 +0900	pull origin master: Merge made by the 'recursive' strategy.
+134db0ef8c0a4798dc637274d759e5d7a2e618b3 8121dea2418839f39784f2acc79d373172fdab41 Jumabek <jumabek4044@gmail.com> 1598151503 +0900	commit: ntb update
+8121dea2418839f39784f2acc79d373172fdab41 f3c87e076f6bc21ac9e63e80329aee028973e442 Jumabek <jumabek4044@gmail.com> 1598151596 +0900	commit: use milder early stopping
+f3c87e076f6bc21ac9e63e80329aee028973e442 557a4396ae449711e0076b64c2a2df12d526bdb0 Jumabek <jumabek4044@gmail.com> 1598151675 +0900	pull origin master: Merge made by the 'recursive' strategy.
+557a4396ae449711e0076b64c2a2df12d526bdb0 f05fe790817e8da4e3f7113643532af0ca1d9c0a Jumabek <jumabek4044@gmail.com> 1598151799 +0900	commit: refactor
+f05fe790817e8da4e3f7113643532af0ca1d9c0a a43c04a551018bbda331a18a2b6f6ef7cf1ecb1b Jumabek <jumabek4044@gmail.com> 1598153412 +0900	commit: refactoring
+a43c04a551018bbda331a18a2b6f6ef7cf1ecb1b d4c48e5adb6857e9ee53caa53da8a3a9b6de1256 Jumabek <jumabek4044@gmail.com> 1598319842 +0900	commit: arhived for future ref
+d4c48e5adb6857e9ee53caa53da8a3a9b6de1256 973dfdc51cb1be251181810fa309233e9f8cf221 Jumabek <jumabek4044@gmail.com> 1598319855 +0900	commit: working directly from python
+973dfdc51cb1be251181810fa309233e9f8cf221 25d350a3f6439980f1fc4f01940592f794b10cac Jumabek <jumabek4044@gmail.com> 1598319913 +0900	commit: refactor
+25d350a3f6439980f1fc4f01940592f794b10cac 354ab886d2ae29bfbac1b2deb95814d0da67cb40 Jumabek <jumabek4044@gmail.com> 1598319926 +0900	pull origin master: Merge made by the 'recursive' strategy.
+354ab886d2ae29bfbac1b2deb95814d0da67cb40 e1d1603d462f484c7841d849869550afa9df69a0 Jumabek <jumabek4044@gmail.com> 1598319981 +0900	pull origin master: Merge made by the 'recursive' strategy.
+e1d1603d462f484c7841d849869550afa9df69a0 9d7d519e72433b9e2114ddc6a6244ee70ba36f09 Jumabek <jumabek4044@gmail.com> 1598320265 +0900	commit: refactoring
+9d7d519e72433b9e2114ddc6a6244ee70ba36f09 f215073cbb389231379a66a0620da0598f04bdb8 Jumabek <jumabek4044@gmail.com> 1598321735 +0900	commit: fix resume training
+f215073cbb389231379a66a0620da0598f04bdb8 93fc5e2aea3107f0ec7a4c0d48db717b8d478874 Jumabek <jumabek4044@gmail.com> 1598321761 +0900	commit: refactoring
+93fc5e2aea3107f0ec7a4c0d48db717b8d478874 b4f15a8953927b139f7eabef59489910493e1f7d Jumabek <jumabek4044@gmail.com> 1598322075 +0900	commit: refactoring
+b4f15a8953927b139f7eabef59489910493e1f7d 3fac3063eee6e759c4add4452e6c59641b742789 Jumabek <jumabek4044@gmail.com> 1598322155 +0900	commit: refactor
+3fac3063eee6e759c4add4452e6c59641b742789 18f06b2fbe6ec5cf50cc55f563472a8e5902f9dc Jumabek <jumabek4044@gmail.com> 1598325445 +0900	commit: refactoring
+18f06b2fbe6ec5cf50cc55f563472a8e5902f9dc d8f759620b0ef1f502438e06827e934c33b1eac1 Jumabek <jumabek4044@gmail.com> 1598327740 +0900	commit: ntb refactoring
+d8f759620b0ef1f502438e06827e934c33b1eac1 f18b88f092ffca775194e62dff06e77fbf54e29a Jumabek <jumabek4044@gmail.com> 1598327781 +0900	commit: naming
+f18b88f092ffca775194e62dff06e77fbf54e29a aacef94616a482c96b79dd8f2595b4e8caa18e3b Jumabek <jumabek4044@gmail.com> 1598488426 +0900	commit: re-organize
+aacef94616a482c96b79dd8f2595b4e8caa18e3b 46b84faec8bcdee4b421c660e1e66d8c71f4acfd Jumabek <jumabek4044@gmail.com> 1599028563 +0900	commit: ntb update
+46b84faec8bcdee4b421c660e1e66d8c71f4acfd da6289d5b37d06eff0da17e934154f630d941e72 Jumabek <jumabek4044@gmail.com> 1599123112 +0900	commit: refactoring
+da6289d5b37d06eff0da17e934154f630d941e72 453a75453b5c646154f8cb12e189173a6f889792 Jumabek <jumabek4044@gmail.com> 1599123128 +0900	pull origin master: Merge made by the 'recursive' strategy.
+453a75453b5c646154f8cb12e189173a6f889792 025be1e153790ea4b439940f57335d5bc5f3b590 Jumabek <jumabek4044@gmail.com> 1600261092 +0900	pull origin master: Fast-forward
+025be1e153790ea4b439940f57335d5bc5f3b590 1ff65aaea2497d5dfd4e079de731c66891baa243 Jumabek <jumabek4044@gmail.com> 1600500980 +0900	commit: merge fold0split, ntb update
+1ff65aaea2497d5dfd4e079de731c66891baa243 528afc90c9ad7a0736ae5416c78e7ec1b26806e6 Jumabek <jumabek4044@gmail.com> 1600501045 +0900	commit: refactoring
+528afc90c9ad7a0736ae5416c78e7ec1b26806e6 e7e31563348dab6d7fd98627138ae1ea6ef210cd Jumabek <jumabek4044@gmail.com> 1600501068 +0900	commit: rfctr
+e7e31563348dab6d7fd98627138ae1ea6ef210cd 1b75fb823047e09f4ff5c5668c4a7f148bb28dc1 Jumabek <jumabek4044@gmail.com> 1600501090 +0900	commit: rfctr
+1b75fb823047e09f4ff5c5668c4a7f148bb28dc1 766bdb691d58f3028e824f5dbfcf7a658f2f3895 Jumabek <jumabek4044@gmail.com> 1600561961 +0900	commit: rfctr
+766bdb691d58f3028e824f5dbfcf7a658f2f3895 5fc4e4639af2132b4a0eeef9bd1795a959bab814 Jumabek <jumabek4044@gmail.com> 1600567645 +0900	commit: use split.py for splitting 1 fold and 5 folds
+5fc4e4639af2132b4a0eeef9bd1795a959bab814 196e184839d82eed6810698334a0a3d5ba75cdcb Jumabek <jumabek4044@gmail.com> 1600567671 +0900	commit: replaced by split.py
+196e184839d82eed6810698334a0a3d5ba75cdcb 4a556d52a1d1891eb24cd72cfc5f8966c894c866 Jumabek <jumabek4044@gmail.com> 1600569374 +0900	commit: fix bugs
+4a556d52a1d1891eb24cd72cfc5f8966c894c866 5a005fdb783e7ae94eb3c2bf56fed5aa1b652f6d Jumabek <jumabek4044@gmail.com> 1600570319 +0900	commit: refactoring
+5a005fdb783e7ae94eb3c2bf56fed5aa1b652f6d cb2f2f393962c972e42d2cb98f226e63f3f4cb63 Jumabek <jumabek4044@gmail.com> 1600587419 +0900	commit: refactoring
+cb2f2f393962c972e42d2cb98f226e63f3f4cb63 3c6a4f3782499f016b031306ff875838ab8b8a02 Jumabek <jumabek4044@gmail.com> 1600650522 +0900	commit: refactor
+3c6a4f3782499f016b031306ff875838ab8b8a02 91a3f540aa5dd8f2c8d57f73e37d80d73ae64677 Jumabek <jumabek4044@gmail.com> 1600737513 +0900	commit: upd
+91a3f540aa5dd8f2c8d57f73e37d80d73ae64677 c6ac68c073c749631dd3d27d71f4427833eead0c Jumabek <jumabek4044@gmail.com> 1600737554 +0900	commit: refactoring
+c6ac68c073c749631dd3d27d71f4427833eead0c 2e021dedffedb7df9760f903a85b2ec1e2a4e648 Jumabek <jumabek4044@gmail.com> 1600752934 +0900	commit: 1. ntb update 2. multiprocessing split
+2e021dedffedb7df9760f903a85b2ec1e2a4e648 86291b8f5b77ffd5454f845447b95a277a082b9f Jumabek <jumabek4044@gmail.com> 1600752966 +0900	commit: adjust after adjusted SR
+86291b8f5b77ffd5454f845447b95a277a082b9f 0dc15c38d040faed9b630e41746f0ddb3a46ad05 Jumabek <jumabek4044@gmail.com> 1600752985 +0900	commit: adjust after sr
+0dc15c38d040faed9b630e41746f0ddb3a46ad05 f384cb59dfd4493df646cc8e3f7ff9f90cb66eee Jumabek <jumabek4044@gmail.com> 1600753048 +0900	commit: balance
+f384cb59dfd4493df646cc8e3f7ff9f90cb66eee 889ac9fa3a78b26760a6016a8f09018bbaf855b7 Jumabek <jumabek4044@gmail.com> 1600753106 +0900	commit (merge): fx conflict
+889ac9fa3a78b26760a6016a8f09018bbaf855b7 0a66f3a9a0349b729f7b6e40364f912774979744 Jumabek <jumabek4044@gmail.com> 1600756622 +0900	commit: improve CM font size
+0a66f3a9a0349b729f7b6e40364f912774979744 16425d2b88b74c50c38a4f41f7d99245b1e9a7cc Jumabek <jumabek4044@gmail.com> 1600756643 +0900	commit: filter out small confusing classes from Flow Cache plot
+16425d2b88b74c50c38a4f41f7d99245b1e9a7cc 34abb54dcba5141deea791cc15e5472bbce3399f Jumabek <jumabek4044@gmail.com> 1600758489 +0900	commit: refactor
+34abb54dcba5141deea791cc15e5472bbce3399f 84053e3cca836be43bfbb0e0dabbd07080b93daa Jumabek <jumabek4044@gmail.com> 1600907073 +0900	commit: ntb update
+84053e3cca836be43bfbb0e0dabbd07080b93daa 298577a92bdcfbdf25392d409731cd2609d4ea8a Jumabek <jumabek4044@gmail.com> 1600907108 +0900	commit: trefactoring
+298577a92bdcfbdf25392d409731cd2609d4ea8a b26b9df6f17e9dde16d57e872e092860d7f1ecb4 Jumabek <jumabek4044@gmail.com> 1600907126 +0900	pull origin master: Merge made by the 'recursive' strategy.
+b26b9df6f17e9dde16d57e872e092860d7f1ecb4 1e619854a23244536f886561e183e2f03357691e Jumabek <jumabek4044@gmail.com> 1600996133 +0900	commit: dr effect updated
+1e619854a23244536f886561e183e2f03357691e e4a3f229716ee6525b082874fd0c640503726ca3 Jumabek <jumabek4044@gmail.com> 1600996191 +0900	commit (merge): conflict merged with SL 1
+e4a3f229716ee6525b082874fd0c640503726ca3 ca73ab7b8f2491ff45034abe2591211ebbbdbfcd Jumabek <jumabek4044@gmail.com> 1601369343 +0900	commit: notebooks
+ca73ab7b8f2491ff45034abe2591211ebbbdbfcd f47a0450ed7971a0bffda71596796edeb4c54f3c Jumabek <jumabek4044@gmail.com> 1601369561 +0900	commit: update sampling dirs
+f47a0450ed7971a0bffda71596796edeb4c54f3c 9ce6da3a8e942734db6990bad2c316efb401c754 Jumabek <jumabek4044@gmail.com> 1601429034 +0900	commit: refactoring, and experiment logs
+9ce6da3a8e942734db6990bad2c316efb401c754 c6e5eb1721d6f8b00887515f252a7991aae634d0 Jumabek <jumabek4044@gmail.com> 1601431474 +0900	commit: notebook update
+c6e5eb1721d6f8b00887515f252a7991aae634d0 8f8028107184c0e8aa685f0944657eebb4b769e2 Jumabek <jumabek4044@gmail.com> 1601431538 +0900	commit: adjustments: csv_r_1.0 to r_1_m_1
+8f8028107184c0e8aa685f0944657eebb4b769e2 9b53b800f495c972b5bc374b59952cf6e93a7b44 Jumabek <jumabek4044@gmail.com> 1601434109 +0900	commit: improve figures
+9b53b800f495c972b5bc374b59952cf6e93a7b44 994998185c5c46abe5e23475005afb892a95ecd2 Jumabek <jumabek4044@gmail.com> 1601513091 +0900	pull origin master: Fast-forward
+994998185c5c46abe5e23475005afb892a95ecd2 872931c08d596c124f0f7209148e2a0fa8a30c45 Jumabek <jumabek4044@gmail.com> 1601514025 +0900	commit: option to plot increase ONLY in malicious fr
+872931c08d596c124f0f7209148e2a0fa8a30c45 8158ee9b149e462df23698c66f15fddc4b5c7cf6 Jumabek <jumabek4044@gmail.com> 1601726426 +0900	pull origin master: Fast-forward
+8158ee9b149e462df23698c66f15fddc4b5c7cf6 840fc55b0bad342e2246222288739c59ac707c48 Jumabek <jumabek4044@gmail.com> 1601728553 +0900	pull origin master: Fast-forward
+840fc55b0bad342e2246222288739c59ac707c48 f1e5cef2fe0d13d63e7347e1c8ec8a0f04043839 Jumabek <jumabek4044@gmail.com> 1601737018 +0900	commit: reduce_n_shuffle working
+f1e5cef2fe0d13d63e7347e1c8ec8a0f04043839 94abb67cd39eeb647b798a540060a7a6d56d56d7 Jumabek <jumabek4044@gmail.com> 1601815321 +0900	commit: refactor
+94abb67cd39eeb647b798a540060a7a6d56d56d7 e645f5018ffc19017e206350108edebf69d36575 Jumabek <jumabek4044@gmail.com> 1601815410 +0900	commit: refactor
+e645f5018ffc19017e206350108edebf69d36575 875c456a1ed8ec64671a27af5303a8084cb971ac Jumabek <jumabek4044@gmail.com> 1601815426 +0900	commit: refactor
+875c456a1ed8ec64671a27af5303a8084cb971ac d30284257e53d6ec7078e5692700576669aaaf8f Jumabek <jumabek4044@gmail.com> 1601816027 +0900	commit: running cnn
+d30284257e53d6ec7078e5692700576669aaaf8f bebbc8d753528332637ca096c5372ce7dee78086 Jumabek <jumabek4044@gmail.com> 1601858197 +0900	commit: update
+bebbc8d753528332637ca096c5372ce7dee78086 54b8eff218e7bb7aba8e6afb4ea6219eeec18361 Jumabek <jumabek4044@gmail.com> 1601859845 +0900	commit: eval update refactor
+54b8eff218e7bb7aba8e6afb4ea6219eeec18361 c09c0f654156ffff7254eff6a7b53c36c3bf04fa Jumabek <jumabek4044@gmail.com> 1601887626 +0900	pull origin master: Fast-forward
+c09c0f654156ffff7254eff6a7b53c36c3bf04fa 818404ae2131cb86e253676d235ae1e46e157069 Jumabek <jumabek4044@gmail.com> 1601933898 +0900	commit: refactoring
+818404ae2131cb86e253676d235ae1e46e157069 df2285650e2532975cb596e9c3f54fd73acbe539 Jumabek <jumabek4044@gmail.com> 1601950145 +0900	commit: add Increase rate
+df2285650e2532975cb596e9c3f54fd73acbe539 63631cdd60d4207ba6a4bc017096d68caaff301a Jumabek <jumabek4044@gmail.com> 1601950159 +0900	pull origin master: Merge made by the 'recursive' strategy.
+63631cdd60d4207ba6a4bc017096d68caaff301a de5182d45e5f452f941fe6559e28952e627c7087 Jumabek <jumabek4044@gmail.com> 1602038953 +0900	commit: kfold_classifier working, kfold_eval is being tested on sl1
+de5182d45e5f452f941fe6559e28952e627c7087 3ef3f980e87ee95bdab7f8cbc6468c31f40c7352 Jumabek <jumabek4044@gmail.com> 1602038964 +0900	commit: refactoring
+3ef3f980e87ee95bdab7f8cbc6468c31f40c7352 e54982c6b9456e895f80b7de5262958b6a391825 Jumabek <jumabek4044@gmail.com> 1602039028 +0900	commit: adjust for kfold eval
+e54982c6b9456e895f80b7de5262958b6a391825 05f2b4e1cb2def9e77a7ec85b8f0d8fbde4f63a4 Jumabek <jumabek4044@gmail.com> 1602052364 +0900	commit: kfold evaluator working
+05f2b4e1cb2def9e77a7ec85b8f0d8fbde4f63a4 2ba23784bc12e6ee1eb6f303e25f4d6aa9267ede Jumabek <jumabek4044@gmail.com> 1602114911 +0900	commit: upd
+2ba23784bc12e6ee1eb6f303e25f4d6aa9267ede 40ec8fc5ad26f5e0d68afd4d062205ddc02c5141 Jumabek <jumabek4044@gmail.com> 1602115032 +0900	commit: inverse balancing, refactor result oggin
+40ec8fc5ad26f5e0d68afd4d062205ddc02c5141 4fc056b5d5639bdae0adf1698cc6bc042d3d6ce4 Jumabek <jumabek4044@gmail.com> 1602115397 +0900	pull origin master: Fast-forward
+4fc056b5d5639bdae0adf1698cc6bc042d3d6ce4 6d9f9a3afe28cde89f2c041e9c8a66b274b5c2a4 Jumabek <jumabek4044@gmail.com> 1602297444 +0900	commit: refactoring
+6d9f9a3afe28cde89f2c041e9c8a66b274b5c2a4 55dc8f77c0a886bb741dbce5d77d4b907417ce8a Jumabek <jumabek4044@gmail.com> 1602298724 +0900	commit: refactoring
+55dc8f77c0a886bb741dbce5d77d4b907417ce8a 5fef9ce84e36b03de24c8a942087a9ceddd94818 Jumabek <jumabek4044@gmail.com> 1602299037 +0900	pull origin master: Fast-forward
+5fef9ce84e36b03de24c8a942087a9ceddd94818 f9ee59550c9610d7074b107f609a7de7e9fa71d9 Jumabek <jumabek4044@gmail.com> 1602400077 +0900	commit: split refactor, notebook update
+f9ee59550c9610d7074b107f609a7de7e9fa71d9 5e3f109e2ff66f30df891f318c670e87c97d4d6c Jumabek <jumabek4044@gmail.com> 1602462508 +0900	commit: ntb update
+5e3f109e2ff66f30df891f318c670e87c97d4d6c 4b30dc3e0e9b278f81e6137061581f676ed57e67 Jumabek <jumabek4044@gmail.com> 1602471866 +0900	commit: balance
+4b30dc3e0e9b278f81e6137061581f676ed57e67 711d5d074451e3de5f066625abdfeba4e6aa54ae Jumabek <jumabek4044@gmail.com> 1602482291 +0900	commit: refactor
+711d5d074451e3de5f066625abdfeba4e6aa54ae a4fae8a2481541eca81bcc5712dd68b47af695aa Jumabek <jumabek4044@gmail.com> 1602482313 +0900	commit: ntb update
+a4fae8a2481541eca81bcc5712dd68b47af695aa 570a20e90932bc7c59ff6d42bddc22c3ee787597 Jumabek <jumabek4044@gmail.com> 1602487416 +0900	pull origin master: Fast-forward
+570a20e90932bc7c59ff6d42bddc22c3ee787597 35e5e197e4d2288c07f4bc27a7e937e2b6df3911 Jumabek <jumabek4044@gmail.com> 1602491837 +0900	commit: fixed conflict, notebooks might not be resolved properly
+35e5e197e4d2288c07f4bc27a7e937e2b6df3911 bca2fd1fe3f35b57b8a7415e3b82b41873be29d9 Jumabek <jumabek4044@gmail.com> 1602492549 +0900	commit: overwrite
+bca2fd1fe3f35b57b8a7415e3b82b41873be29d9 72950371716b3c0c2c08b6874ab8b7d6268ea1c3 Jumabek <jumabek4044@gmail.com> 1602492935 +0900	pull origin master: Fast-forward
+72950371716b3c0c2c08b6874ab8b7d6268ea1c3 d69a9d2be4926b37a9947e3e74ff78abef45a854 Jumabek <jumabek4044@gmail.com> 1602493429 +0900	commit: refactor
+d69a9d2be4926b37a9947e3e74ff78abef45a854 fc680653e10b180e48b55075987da219cae0baa2 Jumabek <jumabek4044@gmail.com> 1602497447 +0900	pull origin master: Fast-forward
+fc680653e10b180e48b55075987da219cae0baa2 9dbc88bc9c4ca4dda4d7509f8acf7faf9076a28b Jumabek <jumabek4044@gmail.com> 1602569047 +0900	commit: notebok update
+9dbc88bc9c4ca4dda4d7509f8acf7faf9076a28b d47966d5d9125cef91b8e1f283c9ed082c27d995 Jumabek <jumabek4044@gmail.com> 1602633307 +0900	commit: new file
+d47966d5d9125cef91b8e1f283c9ed082c27d995 d77e1b58357b73c83ad294a56ee0d778597d3899 Jumabek <jumabek4044@gmail.com> 1602633390 +0900	pull origin master: Fast-forward
+d77e1b58357b73c83ad294a56ee0d778597d3899 d736648edc88fdd10fd79360f1cdc1ce05006e28 Jumabek <jumabek4044@gmail.com> 1602638630 +0900	commit: ntb
+d736648edc88fdd10fd79360f1cdc1ce05006e28 79e8a574d3ff77df9092dff2bacc0c9d20043691 Jumabek <jumabek4044@gmail.com> 1602646819 +0900	pull origin master: Fast-forward
+79e8a574d3ff77df9092dff2bacc0c9d20043691 598ce5cafcb267c64ee8e38553f6af848b6c5c24 Jumabek <jumabek4044@gmail.com> 1602654876 +0900	commit: refactoring
+598ce5cafcb267c64ee8e38553f6af848b6c5c24 6ee1ce05ca9e3696b3e18e13df264025d2f99d01 Jumabek <jumabek4044@gmail.com> 1602726269 +0900	commit: add WS
+6ee1ce05ca9e3696b3e18e13df264025d2f99d01 aec84b6e376390bd7a873608ddee1de899d004be Jumabek <jumabek4044@gmail.com> 1602726305 +0900	pull origin master: Merge made by the 'recursive' strategy.
+aec84b6e376390bd7a873608ddee1de899d004be c27a6b16dc1ebc38723ef7e830b020d5c88cd15c Jumabek <jumabek4044@gmail.com> 1603075889 +0900	commit: ntb updates
+c27a6b16dc1ebc38723ef7e830b020d5c88cd15c 68f983bac9a4a18d9eb6ff27518c753d76e1666d Jumabek <jumabek4044@gmail.com> 1603075930 +0900	commit: 1. kfold_cnn, refactoring
+68f983bac9a4a18d9eb6ff27518c753d76e1666d 5ebcdfb3834210e4890ed8ea811ceae9e289c821 Jumabek <jumabek4044@gmail.com> 1603075946 +0900	pull origin master: Merge made by the 'recursive' strategy.
+5ebcdfb3834210e4890ed8ea811ceae9e289c821 ccd311b447e0146dff0138c3612d6dcc59d4dad7 Jumabek <jumabek4044@gmail.com> 1603076221 +0900	commit: refactoring
+ccd311b447e0146dff0138c3612d6dcc59d4dad7 c6bfe6d8cf1e8b83fbf245ed00d0986cfd0e1582 Jumabek <jumabek4044@gmail.com> 1603157595 +0900	commit: refactoring from sampling repo
+c6bfe6d8cf1e8b83fbf245ed00d0986cfd0e1582 5867321c35666f27e256eb91a7e1156a39446252 Jumabek <jumabek4044@gmail.com> 1603161674 +0900	commit: refactoring
+5867321c35666f27e256eb91a7e1156a39446252 4182f3921075047019d08808dc23d9d34486750e Jumabek <jumabek4044@gmail.com> 1603161690 +0900	pull origin master: Merge made by the 'recursive' strategy.
+4182f3921075047019d08808dc23d9d34486750e 44ea0513cef0f505d1f1a324e1618c2e796407f1 Jumabek <jumabek4044@gmail.com> 1603162267 +0900	commit: refactoring
+44ea0513cef0f505d1f1a324e1618c2e796407f1 67828a5a3ca1a5b6d17e986184f659f1c83ef08a Jumabek <jumabek4044@gmail.com> 1603175415 +0900	commit: refactoring
+67828a5a3ca1a5b6d17e986184f659f1c83ef08a 30327c57773bb9cb3f096293b2429d6a241a4d56 Jumabek <jumabek4044@gmail.com> 1603181636 +0900	commit: refactoring
+30327c57773bb9cb3f096293b2429d6a241a4d56 6b15ab75075df766879e1be68c20f71adbb00511 Jumabek <jumabek4044@gmail.com> 1603231620 +0900	commit: updates refactoring, prep for sigmetrics submission
+6b15ab75075df766879e1be68c20f71adbb00511 6602cd6af943f627fe190b27d52b0b5b41b72b86 Jumabek <jumabek4044@gmail.com> 1603231769 +0900	pull origin master: Fast-forward
+6602cd6af943f627fe190b27d52b0b5b41b72b86 9600067928be26f898e851916e057e228e86fb53 Jumabek <jumabek4044@gmail.com> 1603244634 +0900	commit: inference time code
+9600067928be26f898e851916e057e228e86fb53 f2063b09804acb888e320bd4f53f437cd29cb2d6 Jumabek <jumabek4044@gmail.com> 1603246197 +0900	commit: updates
+f2063b09804acb888e320bd4f53f437cd29cb2d6 43978cb616a1f03442394c2fc56313fd7bf73e1c Jumabek <jumabek4044@gmail.com> 1603246386 +0900	pull origin master: Fast-forward
+43978cb616a1f03442394c2fc56313fd7bf73e1c fc38c48160db7139587ffa0ef904732782fc2a0e Jumabek <jumabek4044@gmail.com> 1603250187 +0900	commit: updates
+fc38c48160db7139587ffa0ef904732782fc2a0e 5e63d9165fdf973ea39415d5be7eefaafe7a2193 Jumabek <jumabek4044@gmail.com> 1603250573 +0900	pull origin master: Fast-forward
+5e63d9165fdf973ea39415d5be7eefaafe7a2193 97fba304afd142d6a9510b954a918fb07316d24d Jumabek <jumabek4044@gmail.com> 1603256435 +0900	pull origin master: Fast-forward
+97fba304afd142d6a9510b954a918fb07316d24d d71456b84d3e36b69e230fc8258465e010146d6c Jumabek <jumabek4044@gmail.com> 1603259914 +0900	commit: sl1 updates
+d71456b84d3e36b69e230fc8258465e010146d6c eea40541176922902e3b82ed92180c2c453fd895 Jumabek <jumabek4044@gmail.com> 1603267543 +0900	pull origin master: Fast-forward
+eea40541176922902e3b82ed92180c2c453fd895 d0054a69fbf4df8c4732905419ec240ef2f03367 Jumabek <jumabek4044@gmail.com> 1603274257 +0900	commit: upd sl1
+d0054a69fbf4df8c4732905419ec240ef2f03367 c9c5c08fc06e6b3f60cc2c891fbe278c0346e8d3 Jumabek <jumabek4044@gmail.com> 1603274407 +0900	pull origin master: Fast-forward
+c9c5c08fc06e6b3f60cc2c891fbe278c0346e8d3 5d4a91f3e133973c21772f089e62b3afa9696349 Jumabek <jumabek4044@gmail.com> 1603334524 +0900	commit: upd
+5d4a91f3e133973c21772f089e62b3afa9696349 718ce395c394ddcb5a96ecb9a1fd8430ddf77ab2 Jumabek <jumabek4044@gmail.com> 1603335021 +0900	pull origin master: Fast-forward
+718ce395c394ddcb5a96ecb9a1fd8430ddf77ab2 1c40a8a68905cfaeec8c2616dd03a99ec615b27c jumabek <jumabek4044@gmail.com> 1627458743 +0900	commit: enforce gitignore
