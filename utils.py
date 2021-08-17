@@ -20,7 +20,7 @@ dataroot = '/home/juma/data/net_intrusion/CIC-IDS-2018'
 def get_ddos19_root():
     return '/data/juma/data/ddos/'
 def get_ids18_root():
-    return '/data/juma/data/ids18/'
+    return '/data/juma/data/net_intrusion/ids18/'
     #return '/hdd/juma/data/net_intrusion/ids18'
 #dataroot = '/mnt/sda_dir/juma/data/net_intrusion/CIC-IDS-2018/'
 #dataroot = '/media/juma/data/research/intrusion_detection/dataset/CIC-IDS-2018/'
