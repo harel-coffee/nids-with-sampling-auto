@@ -87,7 +87,7 @@ class Classifier:
         self.balance = args['balance']
         self.class_weights = args['class_weight']
         self.device = torch.device(0)
-    
+        self.classes_ = np.arange(args['num_class']) 
         num_class = args['num_class']
         input_dim = args['input_dim']
         if method=='softmax':
@@ -265,6 +265,31 @@ class Classifier:
         balanced_acc  = metrics.balanced_accuracy_score(y,pred.cpu())*100
         acc = metrics.accuracy_score(y,pred.cpu())*100
         return balanced_acc, acc
+
+    def predict_proba(self,x,bs=LARGEST_BATCH_SIZE,model=None,device=None):
+        if device==None:
+            device = self.device
+        
+        num_batch = x.shape[0]//bs +1*(x.shape[0]%bs!=0)
+        proba = torch.zeros((0,self.model.num_classes),dtype=torch.int64).to(device)
+         
+        if model!=None:
+            model = model
+        else:
+            model = self.load_model()
+        model = model.to(device)
+        
+        torch.set_grad_enabled(False)
+        model.eval()        
+        softmax = nn.Softmax(dim=1)
+        with torch.no_grad():
+            for i in range(num_batch):
+                xi = x[i*bs:(i+1)*bs]
+                xi_tensor = torch.stack([torch.Tensor(i) for i in xi]).to(device)
+                outputs = model(xi_tensor)
+                proba = torch.cat((proba,softmax(outputs.data)))
+                
+        return proba.cpu().numpy()
 
 
     def predict(self,x,bs=LARGEST_BATCH_SIZE,model=None,device=None):
