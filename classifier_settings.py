@@ -26,7 +26,6 @@ class ClassifierLoader:
 
     def load_tree(self,args):
         balance = args['balance']
-        print("using {} balancing ".format(balance))
         model_file = open(join(args['runs_dir'],'model.pkl'),'rb')
         if balance=='with_loss':
             return pickle.load(model_file)
@@ -61,6 +60,19 @@ class ClassifierLoader:
 def get_num_ws_classes():
     label_to_id, id_to_label, _ = get_ids18_mappers()
     return len(label_to_id)
+
+
+def get_classifier_dir(sampler_dir, classifier_name, class_weight=None):
+    _, config = get_args(classifier_name, class_weight)
+    clf_dir = join(sampler_dir, 'c_{}'.format(classifier_name)+config)
+    return clf_dir
+
+
+def load_classifier(classifier_name,model_file,  class_weight=None):
+    args, _  = get_args(classifier_name, class_weight)
+    args['runs_dir'] = model_file
+    CL = ClassifierLoader()
+    return CL.load(args) 
 
 
 def get_args(classifier_name, class_weight):
