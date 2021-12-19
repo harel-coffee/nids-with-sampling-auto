@@ -1,2 +1,2 @@
 "# intrusion_det_experiment" 
-This repo contains Machine Learning experimental code for network intrusion detection 
+This repo contains Machine Learning experimental code for network intrusion detection in the presence of sampling
