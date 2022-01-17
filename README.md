@@ -1,7 +1,7 @@
 # Investigating the Effect of Traffic Sampling on Machine Learning-Based Network Intrusion Detection Approaches
 
 This repo contains implementation of ML experiments for NIDS in the presence of sampling 
-
+Please note that repository is noisy, I am planning to clean it up in the future, if enough people ask me. Other than that, there is no motivation.
 
 ### Citing sampling+NIDS
 
