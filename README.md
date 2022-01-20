@@ -3,6 +3,8 @@
 This repo contains implementation of ML experiments for NIDS in the presence of sampling 
 Please note that repository is noisy, I am planning to clean it up in the future, if enough people ask me. Other than that, there is no motivation.
 
+## Read the published paper here: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9661375 
+
 ### Citing sampling+NIDS
 
 If you find this repo useful in your research, please consider citing:
