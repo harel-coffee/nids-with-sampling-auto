@@ -13,4 +13,7 @@ If you find this repo useful in your research, please consider citing:
 ```
 
 
-## Related work on feature sestimation error of sFlow and SketchFlow samplers comparisons are experimented here: https://github.com/Jumabek/nids-with-sampling/blob/master/FlowFeatureEstimationOfTrafficSamplers4NIDS.pptx.pdf
+
+## Flow Feature Estimation Error of the samplers:
+
+Related work on feature sestimation error of sFlow and SketchFlow samplers comparisons are experimented here: https://github.com/Jumabek/nids-with-sampling/blob/master/FlowFeatureEstimationOfTrafficSamplers4NIDS.pptx.pdf
