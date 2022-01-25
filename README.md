@@ -11,3 +11,6 @@ If you find this repo useful in your research, please consider citing:
 ```
   @ARTICLE{9661375,  author={Alikhanov, Jumabek and Jang, Rhongho and Abuhamad, Mohammed and Mohaisen, David and Nyang, Daehun and Noh, Youngtae},  journal={IEEE Access},   title={Investigating the Effect of Traffic Sampling on Machine Learning-Based Network Intrusion Detection Approaches},   year={2022},  volume={10},  number={},  pages={5801-5823},  doi={10.1109/ACCESS.2021.3137318}}
 ```
+
+
+## Related work on feature sestimation error of sFlow and SketchFlow samplers comparisons are experimented here: https://github.com/Jumabek/nids-with-sampling/blob/master/FlowFeatureEstimationOfTrafficSamplers4NIDS.pptx.pdf
